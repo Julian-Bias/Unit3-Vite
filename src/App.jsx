@@ -1,4 +1,5 @@
 import "./App.css";
+import "./index.css";
 import { useState } from "react";
 import { puppyList } from "./data.js";
 import "./App.css";
